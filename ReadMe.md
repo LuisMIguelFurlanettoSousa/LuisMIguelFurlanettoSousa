@@ -46,9 +46,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/LuisMiguelFurlanettoSousa/LuisMiguelFurlanettoSousa/output/snake.svg" alt="Snake animation" />
-
----
+<img src="https://raw.githubusercontent.com/LuisMIguelFurlanettoSousa/LuisMIguelFurlanettoSousa/output/snake.svg" alt="Snake animation" />
 
 
 ---
