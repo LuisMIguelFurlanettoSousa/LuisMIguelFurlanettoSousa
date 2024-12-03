@@ -28,6 +28,14 @@
 </details>
 
 <details>
+  <summary><b>🏗️ Contributions </b></summary>
+  <div align="center"> <br>
+    <img src="https://github.com/osiristape/osiristape/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D-Graph-Contribution" width="600">
+  </div>
+
+</details>
+
+<details>
   <summary><b>💬 Social Networks</b></summary>
   <div>
     <a href="mailto:lfurlanettosousa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=9580ff" target="_blank"></a>
