@@ -11,7 +11,7 @@
 - 🔭 I’m currently working on personal and academic projects.
 - 🌱 I’m currently learning JavaScript, Python, and web development frameworks.
 - 👯 I’m looking to collaborate on open-source repositories and real-world projects.
-- 📫 How to reach me: luis.miguel@example.com (replace with your email).
+- 📫 How to reach me: lfurlanettosousa@gmail.com.
 - ⚡ Fun fact: I love challenges and solving problems through code!
 
 </details>
@@ -30,7 +30,7 @@
 <details>
   <summary><b>💬 Social Networks</b></summary>
   <div>
-    <a href="mailto:luis.miguel@example.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=9580ff" target="_blank"></a>
+    <a href="mailto:lfurlanettosousa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=9580ff" target="_blank"></a>
     <a href="https://www.linkedin.com/in/luis-miguel-furlanetto-sousa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     <a href="https://github.com/LuisMIguelFurlanettoSousa" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%2320232a?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
   </div>
@@ -40,12 +40,11 @@
   <summary><b>🧑‍💻 Tech Stack</b></summary>
   <div>
     <img align="center" alt="Luis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Luis-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-    <img align="center" alt="Luis-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Luis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Luis-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Luis-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="Luis-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+    <img align="center" alt="Luis-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   </div>
 </details>
 
