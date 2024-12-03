@@ -44,24 +44,7 @@
 
 ---
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://via.placeholder.com/150x150.png?text=Custom+Animation" alt="custom animation" style="animation: rotate 3s infinite linear;" />
-</div>
-
-<style>
-  @keyframes rotate {
-    from {
-      transform: rotate(0deg);
-    }
-    to {
-      transform: rotate(360deg);
-    }
-  }
-</style>
-
-
+<img src="https://raw.githubusercontent.com/LuisMiguelFurlanettoSousa/LuisMiguelFurlanettoSousa/output/snake.svg" alt="Snake animation" />
 
 ---
 [![](https://visitcount.itsvg.in/api?id=LuisMIguelFurlanettoSousa&icon=5&color=6)](https://visitcount.itsvg.in)
