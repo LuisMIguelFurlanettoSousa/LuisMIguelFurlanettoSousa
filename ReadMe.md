@@ -3,7 +3,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9580ff&size=35&center=true&vCenter=true&width=1000&theme=dracula&lines=Hi+there+%F0%9F%91%8B;I'm+Luis+Miguel+Furlanetto;Welcome+to+my+GitHub;Feel+free+to+explore+my+projects!+%F0%9F%98%8A)](https://git.io/typing-svg)
 
-<img align="right" alt="Luis-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/LuisMIguelFurlanettoSousa"/>
+<img align="right" alt="Funny Code Joke" height="150" style="border-radius:50px;" src="./false-image.jpg"/>
+
 
 <details>
   <summary><b>😀 About Me</b></summary>
