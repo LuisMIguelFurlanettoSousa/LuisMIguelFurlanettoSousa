@@ -40,30 +40,31 @@
 
 <details>
   <summary><b>🧑‍🔧 Tech Stack</b></summary>
-<div align="center" style="display: flex; align-items: center; justify-content: center;">
+<div align="center" style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap;">
 
 ### Main skills:
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-Python-0D1117?style=flat&logo=python&labelColor=0D1117)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-0D1117?style=flat&logo=html5&labelColor=0D1117)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-0D1117?style=flat&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
-![C](https://img.shields.io/badge/C-0D1117?style=flat&logo=C&logoColor=1572B6&labelColor=0D1117)&nbsp;
+<img align="center" alt="Luis-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Luis-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="Luis-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Luis-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="Luis-C" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 
 ### Tools:
-![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=flat&logo=mysql&labelColor=0D1117)&nbsp;
-![Git](https://img.shields.io/badge/-Git-0D1117?style=flat&logo=git&labelColor=0D1117)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=flat&logo=github&labelColor=0D1117)&nbsp;
+<img align="center" alt="Luis-MySQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+<img align="center" alt="Luis-Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+<img align="center" alt="Luis-GitHub" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 
 ### Other Knowledge:
-![Linux](https://img.shields.io/badge/-Linux-0D1117?style=flat&logo=linux&labelColor=0D1117)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-0D1117?style=flat&logo=figma&labelColor=0D1117)&nbsp;
+<img align="center" alt="Luis-Linux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+<img align="center" alt="Luis-Figma" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
 
 ### Studying in this moment:
-![Python](https://img.shields.io/badge/-Python-0D1117?style=flat&logo=python&labelColor=0D1117)&nbsp;
-![AWS](https://img.shields.io/badge/-AWS-0D1117?style=flat&logo=amazon-web-services&labelColor=0D1117)&nbsp;
-![Hacking](https://img.shields.io/badge/-Hacking-0D1117?style=flat&logo=kalilinux&labelColor=0D1117)&nbsp;
+<img align="center" alt="Luis-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="Luis-AWS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+<img align="center" alt="Luis-Hacking" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kalilinux/kalilinux-original.svg">
 
 </div>
+
 
 </details>
 
