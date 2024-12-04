@@ -1,17 +1,15 @@
 <!-- Header -->
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9580ff&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9580ff&size=35&center=true&vCenter=true&width=1000&theme=dracula&lines=Hi+there+%F0%9F%91%8B;I'm+Luis+Miguel+Furlanetto;Welcome+to+my+GitHub;Feel+free+to+explore+my+projects!+%F0%9F%98%8A)](https://git.io/typing-svg)
-
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9580ff&size=35&center=true&vCenter=true&width=1000&theme=dracula&lines=Hi+there+%F0%9F%91%8B;I'm+Luis+Miguel+Furlanetto;Welcome+to+my+GitHub;Feel+free+to+explore+my+projects!+%F0%9F%98%8A;I+am+a+passionate+developer;Code+is+my+art;Let%27s+create+amazing+things+together)](https://git.io/typing-svg)
 
 <details>
   <summary><b>😀 About Me</b></summary>
   
 - 🔭 I’m currently working on personal and academic projects.
 - 🌱 I’m currently learning JavaScript, Python, and web development frameworks.
-- 👯 I’m looking to collaborate on open-source repositories and real-world projects.
-- 📫 How to reach me: lfurlanettosousa@gmail.com.
+- 👯‍♂️ I’m looking to collaborate on open-source repositories and real-world projects.
+- 📩 How to reach me: lfurlanettosousa@gmail.com.
 - ⚡ Fun fact: I love challenges and solving problems through code!
 
 </details>
@@ -35,7 +33,7 @@
 </details>
 
 <details>
-  <summary><b>🧑‍💻 Tech Stack</b></summary>
+  <summary><b>🧑‍🔧 Tech Stack</b></summary>
   <div>
     <img align="center" alt="Luis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Luis-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
