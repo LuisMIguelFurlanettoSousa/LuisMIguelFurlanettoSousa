@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9580ff&size=35&center=true&vCenter=true&width=1000&theme=dracula&lines=Hi+there+%F0%9F%91%8B;I'm+Luis+Miguel+Furlanetto;Welcome+to+my+GitHub;Feel+free+to+explore+my+projects!+%F0%9F%98%8A)](https://git.io/typing-svg)
 
-<img align="right" alt="Luis-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/your-username"/>
+<img align="right" alt="Luis-pic" height="150" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/LuisMIguelFurlanettoSousa"/>
 
 <details>
   <summary><b>😀 About Me</b></summary>
@@ -22,8 +22,6 @@
     <img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api?username=LuisMIguelFurlanettoSousa&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=9580ff&icon_color=ff80bf&text_color=c9d1d9&bg_color=0d1117" alt="Luis GitHub Stats"/>
     <img width="49%" height="190px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisMIguelFurlanettoSousa&layout=compact&hide_border=true&title_color=9580ff&text_color=c9d1d9&bg_color=0d1117" alt="Luis Most Used Languages"/>
   </div>
-
-  ![Snake animation](https://github.com/LuisMIguelFurlanettoSousa/LuisMIguelFurlanettoSousa/blob/output/github-contribution-grid-snake.svg)
 
 </details>
 
