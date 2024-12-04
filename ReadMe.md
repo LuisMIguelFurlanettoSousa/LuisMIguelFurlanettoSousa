@@ -1,8 +1,8 @@
 <!-- Header -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9580ff&height=150&section=header&text=Luis+Miguel+Furlanetto+Sousa&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=25&desc=Welcome+to+my+GitHub!&descAlignY=50&descAlign=62"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bd93f9&height=150&section=header&text=Luis+Miguel+Furlanetto+Sousa&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=25&desc=Welcome+to+my+GitHub!&descAlignY=50&descAlign=62"/>
 
 <!-- Introduction with Animated Typing -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=500&color=9580FF&center=true&vCenter=true&width=1000&lines=Hello,+World!+👋;I'm+Luis+Miguel+Furlanetto.;Full-stack+Developer+%26+Problem-Solver.;Let's+build+something+amazing+together!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&pause=500&color=bd93f9&center=true&vCenter=true&width=1000&lines=Hello,+World!+👋;I'm+Luis+Miguel+Furlanetto.;Full-stack+Developer+%26+Problem-Solver.;Let's+build+something+amazing+together!)](https://git.io/typing-svg)
 
 ---
 
@@ -43,13 +43,13 @@
 </p>
 
 #### 🔹 Recent Activity:  
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=LuisMIguelFurlanettoSousa&bg_color=0d1117&color=9580ff&line=ff80bf&point=c9d1d9&area=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=LuisMIguelFurlanettoSousa&bg_color=0d1117&color=bd93f9&line=ff80bf&point=c9d1d9&area=true&hide_border=true)
 
 ---
 
 ### 📈 GitHub Stats  
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=LuisMIguelFurlanettoSousa&show_icons=true&theme=dracula&hide_border=true&title_color=9580ff&icon_color=ff80bf" alt="Luis's GitHub Stats"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=LuisMIguelFurlanettoSousa&show_icons=true&theme=dracula&hide_border=true&title_color=bd93f9&icon_color=ff80bf" alt="Luis's GitHub Stats"/>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=LuisMIguelFurlanettoSousa&theme=dracula&hide_border=true&fire=ff80bf" alt="Luis's GitHub Streak Stats"/>
 </p>
 <p align="center">
@@ -75,4 +75,4 @@
 ---
 
 <!-- Footer -->
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9580ff&height=150&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=bd93f9&height=150&section=footer"/>
