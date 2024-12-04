@@ -3,6 +3,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=9580ff&size=35&center=true&vCenter=true&width=1000&theme=dracula&lines=Hi+there+%F0%9F%91%8B;I'm+Luis+Miguel+Furlanetto;Welcome+to+my+GitHub;Feel+free+to+explore+my+projects!+%F0%9F%98%8A;I+am+a+passionate+developer;Code+is+my+art;Let%27s+create+amazing+things+together)](https://git.io/typing-svg)
 
+<div align="center" style="display: flex; align-items: center; justify-content: center;">
+  <div style="display: flex;">
+    <h6>"I know I'm at right path because everything it stopped being easy"</b></h6>
+  </div>
+</div>
+
 <details>
   <summary><b>😀 About Me</b></summary>
   
