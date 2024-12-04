@@ -61,7 +61,8 @@
 ### Studying in this moment:
 <img align="center" alt="Luis-Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="Luis-AWS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-<img align="center" alt="Luis-Hacking" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Anonymous.svg">
+<img align="center" alt="Luis-Hacking" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Simpleicons_Interface_shield-security-symbol.svg">
+
 
 </div>
 
