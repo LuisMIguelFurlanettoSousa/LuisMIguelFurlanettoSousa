@@ -71,6 +71,10 @@
 <p align="center" ><b>Visitors Count</b></p>
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{LuisMIguelFurlanettoSousa}/count.svg"/></p>
 
+<div align="center">
+  <img src="https://github.com/LuisMIguelFurlanettoSousa/LuisMIguelFurlanettoSousa/blob/main/bolaroxa.gif" alt="Error GIF" width="600px" height="200px" />
+</div>
+
 <br>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9580ff&height=120&section=footer"/>
