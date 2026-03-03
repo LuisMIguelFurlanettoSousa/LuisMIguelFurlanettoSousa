@@ -5,15 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/luis-miguel-furlanetto-sousa">
-    <img src="https://img.shields.io/badge/LinkedIn-161b22?style=flat-square&logo=linkedin&logoColor=ccc" />
-  </a>&nbsp;
-  <a href="mailto:lfurlanettosousa@gmail.com">
-    <img src="https://img.shields.io/badge/Email-161b22?style=flat-square&logo=gmail&logoColor=ccc" />
-  </a>&nbsp;
-  <a href="https://lmfs.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-161b22?style=flat-square&logo=netlify&logoColor=ccc" />
-  </a>
+  <a href="https://www.linkedin.com/in/luis-miguel-furlanetto-sousa">LinkedIn</a> &nbsp;&middot;&nbsp;
+  <a href="mailto:lfurlanettosousa@gmail.com">Email</a> &nbsp;&middot;&nbsp;
+  <a href="https://lmfs.netlify.app">Portfolio</a>
 </p>
 
 ---
@@ -48,13 +42,3 @@ Full Stack Developer focused on performance, usability, and code quality. I work
 | **Databases** | MySQL, Oracle, SQL Server, MongoDB, DynamoDB |
 | **DevOps** | Docker, CI/CD |
 | **Practices** | TDD, Scrum, Kanban |
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LuisMIguelFurlanettoSousa&show_icons=true&hide_border=true&hide_title=true&icon_color=888&text_color=aaa&bg_color=0d1117&count_private=true&include_all_commits=true" height="150" />
-  &nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com?user=LuisMIguelFurlanettoSousa&hide_border=true&background=0D1117&ring=888&fire=ccc&currStreakLabel=aaa&sideLabels=aaa&currStreakNum=fff&sideNums=fff&dates=555" height="150" />
-</p>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LuisMIguelFurlanettoSousa&bg_color=0d1117&color=888&line=555&point=fff&hide_border=true&area=true&area_color=333" width="100%" />
