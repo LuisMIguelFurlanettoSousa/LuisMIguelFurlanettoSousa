@@ -43,6 +43,3 @@ Full Stack Developer focused on performance, usability, and code quality. I work
 | **DevOps** | Docker, CI/CD |
 | **Practices** | TDD, Scrum, Kanban |
                                                                                                                                                                                                                               
- <p align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuisMIguelFurlanettoSousa&theme=github_dark" alt="GitHub Profile Details" />
-  </p>
