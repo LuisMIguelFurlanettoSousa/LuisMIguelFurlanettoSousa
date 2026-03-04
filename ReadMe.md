@@ -42,11 +42,7 @@ Full Stack Developer focused on performance, usability, and code quality. I work
 | **Databases** | MySQL, Oracle, SQL Server, MongoDB, DynamoDB |
 | **DevOps** | Docker, CI/CD |
 | **Practices** | TDD, Scrum, Kanban |
-
-<p align="center">                                                                                                                                                                                                                       
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisMIguelFurlanettoSousa&theme=dark&hide_border=true" alt="GitHub Streak" />                                                                                         
-  </p>                                                                                                                                                                                                                                     
-                                                                                                                                                                                                                                           
-  <p align="center">                                                                                                                                                                                                                       
-    <img src="https://github-readme-stats.vercel.app/api?username=LuisMIguelFurlanettoSousa&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show=reviews" alt="GitHub Stats" />
-  </p>     
+                                                                                                                                                                                                                              
+ <p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuisMIguelFurlanettoSousa&theme=github_dark" alt="GitHub Profile Details" />
+  </p>
